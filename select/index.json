@@ -1,0 +1,400 @@
+{
+  "version": 1,
+  "base_track": "Odd Eye",
+  "base_artist": "DREAMCATCHER",
+  "createdAt": "2026-01-14T08:44:19.923611Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Odd Eye",
+      "artist": "Dreamcatcher",
+      "has_synced": true,
+      "path": "select/01_Odd_Eye_Dreamcatcher.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Odd Eye",
+      "artist": "SHINee",
+      "has_synced": true,
+      "path": "select/02_Odd_Eye_SHINee.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Odd Eye (inst.)",
+      "artist": "DREAMCATCHER",
+      "has_synced": true,
+      "path": "select/03_Odd_Eye_(inst.)_DREAMCATCHER.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Odd Eye",
+      "artist": "SHINee",
+      "has_synced": true,
+      "path": "select/04_Odd_Eye_SHINee.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Odd Eye",
+      "artist": "Dreamcatcher",
+      "has_synced": true,
+      "path": "select/05_Odd_Eye_Dreamcatcher.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Odd Eye (Odd Eye)",
+      "artist": "Dreamcatcher",
+      "has_synced": true,
+      "path": "select/06_Odd_Eye_(Odd_Eye)_Dreamcatcher.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "LOONA/ODD EYE CIRCLE - Girl Front (Instrumental Remake)",
+      "artist": "1UP",
+      "has_synced": true,
+      "path": "select/07_LOONA_ODD_EYE_CIRCLE_-_Girl_Front_(Instrumental_Remake)_1UP.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Odd Eye",
+      "artist": "DREAMCATCHER",
+      "has_synced": true,
+      "path": "select/08_Odd_Eye_DREAMCATCHER.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Odd Eye",
+      "artist": "Dreamcatcher",
+      "has_synced": true,
+      "path": "select/09_Odd_Eye_Dreamcatcher.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Odd Eye;オッドアイ",
+      "artist": "Sayuri; さユり",
+      "has_synced": true,
+      "path": "select/10_Odd_Eye;オッドアイ_Sayuri;_さユり.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Odd Eye",
+      "artist": "SHINee",
+      "has_synced": true,
+      "path": "select/11_Odd_Eye_SHINee.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Odd Eye",
+      "artist": "SHINee (샤이니)",
+      "has_synced": true,
+      "path": "select/12_Odd_Eye_SHINee_(샤이니).lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Odd Eye",
+      "artist": "HORI7ON",
+      "has_synced": true,
+      "path": "select/13_Odd_Eye_HORI7ON.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "LOONATIC (Eng. Ver) - ODD EYE CIRCLE",
+      "artist": "undefined",
+      "has_synced": true,
+      "path": "select/14_LOONATIC_(Eng._Ver)_-_ODD_EYE_CIRCLE_undefined.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Chaotic - ODD EYE CIRCLE",
+      "artist": "undefined",
+      "has_synced": true,
+      "path": "select/15_Chaotic_-_ODD_EYE_CIRCLE_undefined.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Odd Eye",
+      "artist": "Dreamcatcher",
+      "has_synced": true,
+      "path": "select/16_Odd_Eye_Dreamcatcher.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I Am The Odd One",
+      "artist": "Loney Dear",
+      "has_synced": false,
+      "path": "select/17_I_Am_The_Odd_One_Loney_Dear.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Sleep (Odd Nosdam Remix)",
+      "artist": "The Notwist",
+      "has_synced": false,
+      "path": "select/18_Sleep_(Odd_Nosdam_Remix)_The_Notwist.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "ODD FUTURE",
+      "artist": "BiS",
+      "has_synced": false,
+      "path": "select/19_ODD_FUTURE_BiS.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Windshield Smasher (Odd Nosdam Remix)",
+      "artist": "Black Moth Super Rainbow feat. Odd Nosdam",
+      "has_synced": false,
+      "path": "select/20_Windshield_Smasher_(Odd_Nosdam_Remix)_Black_Moth_Super_Rainbow_feat._Odd_Nosdam.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Windshield Smasher (Odd Nosdam Remix)",
+      "artist": "Black Moth Super Rainbow, Odd Nosdam",
+      "has_synced": false,
+      "path": "select/21_Windshield_Smasher_(Odd_Nosdam_Remix)_Black_Moth_Super_Rainbow,_Odd_Nosdam.txt"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Safe Tomorrow - Odd Nosdam Remix",
+      "artist": "Lali Puna",
+      "has_synced": false,
+      "path": "select/22_Safe_Tomorrow_-_Odd_Nosdam_Remix_Lali_Puna.txt"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "You're The One - Odd Future's The Internet ft. Mike G Remix",
+      "artist": "Charli XCX",
+      "has_synced": true,
+      "path": "select/23_You're_The_One_-_Odd_Future's_The_Internet_ft._Mike_G_Remix_Charli_XCX.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "You're The One (Odd Future's The Internet Remix) (feat. Mike G)",
+      "artist": "Charli XCX",
+      "has_synced": true,
+      "path": "select/24_You're_The_One_(Odd_Future's_The_Internet_Remix)_(feat._Mike_G)_Charli_XCX.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Odd Soul",
+      "artist": "MUTEMATH",
+      "has_synced": true,
+      "path": "select/25_Odd_Soul_MUTEMATH.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Odd Soul (Instrumental)",
+      "artist": "MUTEMATH",
+      "has_synced": true,
+      "path": "select/26_Odd_Soul_(Instrumental)_MUTEMATH.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "The Meaning of Love (Fairly Odd mix)",
+      "artist": "Depeche Mode",
+      "has_synced": true,
+      "path": "select/27_The_Meaning_of_Love_(Fairly_Odd_mix)_Depeche_Mode.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Odd Neighbourhood",
+      "artist": "Holygram",
+      "has_synced": false,
+      "path": "select/28_Odd_Neighbourhood_Holygram.txt"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Odd Couple",
+      "artist": "Weezer",
+      "has_synced": true,
+      "path": "select/29_Odd_Couple_Weezer.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Call On Me (Odd Mob Remix)",
+      "artist": "Starley",
+      "has_synced": true,
+      "path": "select/30_Call_On_Me_(Odd_Mob_Remix)_Starley.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Odd Look",
+      "artist": "Kavinsky",
+      "has_synced": true,
+      "path": "select/31_Odd_Look_Kavinsky.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Hog Eye Man",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/32_Hog_Eye_Man_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "Eye in the Sky",
+      "artist": "The Alan Parsons Project",
+      "has_synced": true,
+      "path": "select/33_Eye_in_the_Sky_The_Alan_Parsons_Project.lrc"
+    },
+    {
+      "id": "lrclib_34",
+      "source": "lrclib",
+      "title": "Not Fair - Style Of Eye Remix",
+      "artist": "Lily Allen",
+      "has_synced": false,
+      "path": "select/34_Not_Fair_-_Style_Of_Eye_Remix_Lily_Allen.txt"
+    },
+    {
+      "id": "lrclib_35",
+      "source": "lrclib",
+      "title": "Not Fair [Style Of Eye Remix] [Special Track]",
+      "artist": "Lily Allen",
+      "has_synced": false,
+      "path": "select/35_Not_Fair_[Style_Of_Eye_Remix]_[Special_Track]_Lily_Allen.txt"
+    },
+    {
+      "id": "lrclib_36",
+      "source": "lrclib",
+      "title": "Runaway (James Zabiela Red Eye Remix)",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/36_Runaway_(James_Zabiela_Red_Eye_Remix)_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_37",
+      "source": "lrclib",
+      "title": "Looking Through The Eye Of A Pig",
+      "artist": "Cypress Hill",
+      "has_synced": true,
+      "path": "select/37_Looking_Through_The_Eye_Of_A_Pig_Cypress_Hill.lrc"
+    },
+    {
+      "id": "lrclib_38",
+      "source": "lrclib",
+      "title": "Eye 2 Eye",
+      "artist": "Yung Bans",
+      "has_synced": true,
+      "path": "select/38_Eye_2_Eye_Yung_Bans.lrc"
+    },
+    {
+      "id": "lrclib_39",
+      "source": "lrclib",
+      "title": "Eye Contact",
+      "artist": "Yung Lean",
+      "has_synced": true,
+      "path": "select/39_Eye_Contact_Yung_Lean.lrc"
+    },
+    {
+      "id": "lrclib_40",
+      "source": "lrclib",
+      "title": "Cat's Eye",
+      "artist": "LONE",
+      "has_synced": false,
+      "path": "select/40_Cat's_Eye_LONE.txt"
+    },
+    {
+      "id": "lrclib_41",
+      "source": "lrclib",
+      "title": "Eye A",
+      "artist": "Lawrence Arabia",
+      "has_synced": false,
+      "path": "select/41_Eye_A_Lawrence_Arabia.txt"
+    },
+    {
+      "id": "lrclib_42",
+      "source": "lrclib",
+      "title": "Eye Drops",
+      "artist": "Lemonade",
+      "has_synced": true,
+      "path": "select/42_Eye_Drops_Lemonade.lrc"
+    },
+    {
+      "id": "lrclib_43",
+      "source": "lrclib",
+      "title": "My Right Eye",
+      "artist": "Laurie Anderson",
+      "has_synced": true,
+      "path": "select/43_My_Right_Eye_Laurie_Anderson.lrc"
+    },
+    {
+      "id": "lrclib_44",
+      "source": "lrclib",
+      "title": "Naked Eye",
+      "artist": "Luscious Jackson",
+      "has_synced": true,
+      "path": "select/44_Naked_Eye_Luscious_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_45",
+      "source": "lrclib",
+      "title": "Eye Know",
+      "artist": "De La Soul",
+      "has_synced": false,
+      "path": "select/45_Eye_Know_De_La_Soul.txt"
+    },
+    {
+      "id": "lrclib_46",
+      "source": "lrclib",
+      "title": "Eye of the Tiger",
+      "artist": "Survivor",
+      "has_synced": true,
+      "path": "select/46_Eye_of_the_Tiger_Survivor.lrc"
+    },
+    {
+      "id": "lrclib_47",
+      "source": "lrclib",
+      "title": "A Cheery Wave From Stranded Youngsters - Third Eye Foundation Tet Offensive Remix",
+      "artist": "Mogwai",
+      "has_synced": false,
+      "path": "select/47_A_Cheery_Wave_From_Stranded_Youngsters_-_Third_Eye_Foundation_Tet_Offensive_Remi_Mogwai.txt"
+    },
+    {
+      "id": "lrclib_48",
+      "source": "lrclib",
+      "title": "Black Eye/Burnt Thumb",
+      "artist": "Metronomy",
+      "has_synced": false,
+      "path": "select/48_Black_Eye_Burnt_Thumb_Metronomy.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Odd Eye",
+      "artist": "DREAMCATCHER",
+      "has_synced": false,
+      "path": "select/pl_01_Odd_Eye_DREAMCATCHER.txt"
+    }
+  ]
+}
